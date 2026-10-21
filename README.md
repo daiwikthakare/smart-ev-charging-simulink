@@ -126,7 +126,6 @@ smart-ev-charging-simulink/
 │   └── voltage_both_evs.png
 ├── report/
 │   ├── EV_Charging_Project_Report.pdf
-│   └── EV_Charging_Project_Report.docx
 └── README.md
 ```
 
